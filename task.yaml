@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, image, document, audio, video]
+l1: operations_qa
+l2: document_receipt_processing
+task_type: multimodal_reconciliation
+required_apis: [eventbrite, google-calendar, gmail]
+distractor_apis: [notion, instagram, mailchimp, whatsapp]

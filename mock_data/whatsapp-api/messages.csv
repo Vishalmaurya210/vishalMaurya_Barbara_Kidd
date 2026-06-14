@@ -1,0 +1,2 @@
+message_id,conversation_id,direction,from_wa_id,to_wa_id,type,text,template_name,status,sent_at
+wa-1,conv-fam,inbound,1614550157,1614550999,text,Aaron and Sadie pics from the park!,,delivered,2026-10-11T20:00:00Z

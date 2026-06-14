@@ -1,0 +1,3 @@
+id,organization_id,name,summary,status,start_utc,end_utc,timezone,venue_id,capacity,is_free,online_event,url,created
+evt-gcc-1018,org-gcc,Managing Diabetes Through Lifestyle Changes,Community health workshop at Grace Community Church.,live,2026-10-18T18:00:00Z,2026-10-18T19:30:00Z,America/New_York,venue-gcc,40,true,false,https://eventbrite.example.com/e/gcc-diabetes-1018,2026-09-20T12:00:00Z
+evt-gcc-1121,org-gcc,Community Diabetes Screening Event,Free A1C screening with Dr. Warner's team.,live,2026-11-21T15:00:00Z,2026-11-21T19:00:00Z,America/New_York,venue-gcc,120,true,false,https://eventbrite.example.com/e/gcc-screening-1121,2026-09-28T12:00:00Z
